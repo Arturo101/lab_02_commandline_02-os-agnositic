@@ -94,7 +94,7 @@ Optional Challenge:
 
 a. Create the following directory structure on...
 b. A folder called my-stuff should be on your desktop.  There should be two additional directories within it: archived, current.
-c. Determine the name of your computer.
+c. Determine the name of your computer. DESKTOP-TJRJ142
 d. Create another directory in my-stuff that's the same name as your computer.
 e. Determine which folder in my-stuff was created most recently by using ls.  (there are some flags that help with this).
 f. Remove that folder.
