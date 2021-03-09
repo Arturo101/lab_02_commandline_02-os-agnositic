@@ -97,7 +97,12 @@ $ curl www.google.com
 
 Copy and paste the output below, but not the whole thing!  Just copy up to the part that has the title tags (<title>......</title>).
 ----------
-
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
 
 
 ==========
@@ -137,7 +142,7 @@ Use ls to verify that it downloaded.
 
 Write down the command that you used to download the file below.  Additionally, write the output of the command below.
 ----------
-
+Desktop  Documents  Music  Pictures  Videos  arturogarcia  house  media-computation  mtec1003  mtec1003-lab-02.zip
 
 
 ==========
@@ -145,7 +150,7 @@ Write down the command that you used to download the file below.  Additionally, 
 
 Write down the command that you used to uncompress the file.
 ----------
-
+Desktop  Documents  Music  Pictures  Videos  arturogarcia  house  media-computation  mtec1003  mtec1003-lab-02.zip
 
 
 ==========
@@ -176,7 +181,8 @@ List the files in the directory you're currently in (which should be stuff).
 
 Copy and paste the output below.
 ----------
-
+Desktop    Music     Videos        hello.txt  media-computation  mtec1003-lab-02.zip
+Documents  Pictures  arturogarcia  house      mtec1003           secrets.tar.gz
 
 
 ==========
@@ -230,7 +236,7 @@ Change your directory to mtec1002-lab-02.
 
 List the files.  Copy and paste the output below (stuff.tar.gz should be there).
 ----------
-
+Desktop  Documents  Music  Pictures  Videos  arturogarcia  house  media-computation  mtec1003  mtec1003-lab-02.zip  secrets.tar.gz
 
 ==========
 23. You should be in the lab directory.  Let's uncompress the file.
@@ -239,7 +245,9 @@ $ tar -xvf stuff.tar.gz
 
 List the files.  Copy and paste the output below (the folder, stuff, should be there).
 ----------
-
+gzip: stdin: not in gzip format
+tar: Child returned status 1
+tar: Error is not recoverable: exiting now
 
 
 ==========
