@@ -158,7 +158,7 @@ Desktop  Documents  Music  Pictures  Videos  arturogarcia  house  media-computat
 
 Copy and paste the output below.
 ----------
-
+books  logs  web
 
 
 ==========
